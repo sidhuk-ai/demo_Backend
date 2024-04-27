@@ -1,5 +1,5 @@
 # A Demo Backend Project - For Learning Purpose
-<p align="center"> # MERN Video Platform Backend </p>
+# <p align="center"> MERN Video Platform Backend </p>
 
 ![MERN Stack](https://img.shields.io/badge/MERN-Stack-blue)
 ![Node.js](https://img.shields.io/badge/Node.js-Backend-green)
