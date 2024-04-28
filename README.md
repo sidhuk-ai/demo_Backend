@@ -48,8 +48,7 @@ This is the backend repository for a video platform project based on the MERN st
 
 ## Contributors
 
-- John Doe (john.doe@example.com)
-- Jane Smith (jane.smith@example.com)
+- ![Searching](https://giphy.com/embed/9Y5BbDSkSTiY8)
 
 ## License
 
