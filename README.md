@@ -48,7 +48,7 @@ This is the backend repository for a video platform project based on the MERN st
 
 ## Contributors
 
-- ![Searching](https://giphy.com/embed/9Y5BbDSkSTiY8)
+- ![Searching](https://2.bp.blogspot.com/-kYvWzkkoI2s/XD8dlMcqVoI/AAAAAAAAWCY/WZfSEaEUECcPnfB9VqS6j9ZUbJ59Hh6hwCLcBGAs/s1600/sad.gif)
 
 ## License
 
