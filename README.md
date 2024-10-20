@@ -46,10 +46,3 @@ This is the backend repository for a video platform project based on the MERN st
 - **GET /api/admin/users**: Get a list of all users (admin only).
 - **DELETE /api/admin/users/:id**: Delete a specific user by ID (admin only).
 
-## Contributors
-
-- ![Searching](https://2.bp.blogspot.com/-kYvWzkkoI2s/XD8dlMcqVoI/AAAAAAAAWCY/WZfSEaEUECcPnfB9VqS6j9ZUbJ59Hh6hwCLcBGAs/s1600/sad.gif)
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
